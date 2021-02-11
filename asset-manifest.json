@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/ecl/static/css/main.25c679da.chunk.css",
+    "main.js": "/ecl/static/js/main.64813cf7.chunk.js",
+    "main.js.map": "/ecl/static/js/main.64813cf7.chunk.js.map",
+    "runtime-main.js": "/ecl/static/js/runtime-main.54e60da3.js",
+    "runtime-main.js.map": "/ecl/static/js/runtime-main.54e60da3.js.map",
+    "static/css/2.3eeda32b.chunk.css": "/ecl/static/css/2.3eeda32b.chunk.css",
+    "static/js/2.4130e988.chunk.js": "/ecl/static/js/2.4130e988.chunk.js",
+    "static/js/2.4130e988.chunk.js.map": "/ecl/static/js/2.4130e988.chunk.js.map",
+    "static/js/3.e888a6f7.chunk.js": "/ecl/static/js/3.e888a6f7.chunk.js",
+    "static/js/3.e888a6f7.chunk.js.map": "/ecl/static/js/3.e888a6f7.chunk.js.map",
+    "index.html": "/ecl/index.html",
+    "static/css/2.3eeda32b.chunk.css.map": "/ecl/static/css/2.3eeda32b.chunk.css.map",
+    "static/css/main.25c679da.chunk.css.map": "/ecl/static/css/main.25c679da.chunk.css.map",
+    "static/js/2.4130e988.chunk.js.LICENSE.txt": "/ecl/static/js/2.4130e988.chunk.js.LICENSE.txt",
+    "static/media/carousel1.1d3e891f.jpg": "/ecl/static/media/carousel1.1d3e891f.jpg",
+    "static/media/carousel2.22f6d8a5.jpg": "/ecl/static/media/carousel2.22f6d8a5.jpg",
+    "static/media/carousel3.3a13a0e3.jpg": "/ecl/static/media/carousel3.3a13a0e3.jpg",
+    "static/media/carousel4.fc55870f.jpg": "/ecl/static/media/carousel4.fc55870f.jpg",
+    "static/media/carousel5.aeea1917.jpg": "/ecl/static/media/carousel5.aeea1917.jpg",
+    "static/media/carousel6.1a580905.jpg": "/ecl/static/media/carousel6.1a580905.jpg",
+    "static/media/carousel7.7f8aaaab.jpg": "/ecl/static/media/carousel7.7f8aaaab.jpg",
+    "static/media/common-issue1.b210f4c5.jpg": "/ecl/static/media/common-issue1.b210f4c5.jpg",
+    "static/media/common-issue2.81c36f89.jpg": "/ecl/static/media/common-issue2.81c36f89.jpg",
+    "static/media/common-issue3.249c5dcc.jpg": "/ecl/static/media/common-issue3.249c5dcc.jpg",
+    "static/media/common-issue4.23488540.jpg": "/ecl/static/media/common-issue4.23488540.jpg",
+    "static/media/full_logo.3af64c18.svg": "/ecl/static/media/full_logo.3af64c18.svg",
+    "static/media/info1.735cef91.png": "/ecl/static/media/info1.735cef91.png",
+    "static/media/info2.a8680917.png": "/ecl/static/media/info2.a8680917.png",
+    "static/media/info3.d3af3a85.png": "/ecl/static/media/info3.d3af3a85.png",
+    "static/media/info4.f99e98f3.png": "/ecl/static/media/info4.f99e98f3.png",
+    "static/media/laptop.86efe293.png": "/ecl/static/media/laptop.86efe293.png",
+    "static/media/monitor.9cbcbbc1.svg": "/ecl/static/media/monitor.9cbcbbc1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e60da3.js",
+    "static/css/2.3eeda32b.chunk.css",
+    "static/js/2.4130e988.chunk.js",
+    "static/css/main.25c679da.chunk.css",
+    "static/js/main.64813cf7.chunk.js"
+  ]
+}
