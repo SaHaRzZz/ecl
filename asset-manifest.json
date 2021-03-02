@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ecl/static/css/main.c2612547.chunk.css",
-    "main.js": "/ecl/static/js/main.be6ddcae.chunk.js",
-    "main.js.map": "/ecl/static/js/main.be6ddcae.chunk.js.map",
-    "runtime-main.js": "/ecl/static/js/runtime-main.9e9b4656.js",
-    "runtime-main.js.map": "/ecl/static/js/runtime-main.9e9b4656.js.map",
+    "main.js": "/ecl/static/js/main.fb748e4e.chunk.js",
+    "main.js.map": "/ecl/static/js/main.fb748e4e.chunk.js.map",
+    "runtime-main.js": "/ecl/static/js/runtime-main.3610b9ea.js",
+    "runtime-main.js.map": "/ecl/static/js/runtime-main.3610b9ea.js.map",
     "static/css/2.3eeda32b.chunk.css": "/ecl/static/css/2.3eeda32b.chunk.css",
-    "static/js/2.59978998.chunk.js": "/ecl/static/js/2.59978998.chunk.js",
-    "static/js/2.59978998.chunk.js.map": "/ecl/static/js/2.59978998.chunk.js.map",
-    "static/js/3.0ecde24a.chunk.js": "/ecl/static/js/3.0ecde24a.chunk.js",
-    "static/js/3.0ecde24a.chunk.js.map": "/ecl/static/js/3.0ecde24a.chunk.js.map",
+    "static/js/2.00204d39.chunk.js": "/ecl/static/js/2.00204d39.chunk.js",
+    "static/js/2.00204d39.chunk.js.map": "/ecl/static/js/2.00204d39.chunk.js.map",
+    "static/js/3.443e550d.chunk.js": "/ecl/static/js/3.443e550d.chunk.js",
+    "static/js/3.443e550d.chunk.js.map": "/ecl/static/js/3.443e550d.chunk.js.map",
     "index.html": "/ecl/index.html",
     "static/css/2.3eeda32b.chunk.css.map": "/ecl/static/css/2.3eeda32b.chunk.css.map",
     "static/css/main.c2612547.chunk.css.map": "/ecl/static/css/main.c2612547.chunk.css.map",
-    "static/js/2.59978998.chunk.js.LICENSE.txt": "/ecl/static/js/2.59978998.chunk.js.LICENSE.txt",
+    "static/js/2.00204d39.chunk.js.LICENSE.txt": "/ecl/static/js/2.00204d39.chunk.js.LICENSE.txt",
     "static/media/carousel1.1d3e891f.jpg": "/ecl/static/media/carousel1.1d3e891f.jpg",
     "static/media/carousel2.22f6d8a5.jpg": "/ecl/static/media/carousel2.22f6d8a5.jpg",
     "static/media/carousel3.3a13a0e3.jpg": "/ecl/static/media/carousel3.3a13a0e3.jpg",
@@ -34,10 +34,10 @@
     "static/media/monitor.9cbcbbc1.svg": "/ecl/static/media/monitor.9cbcbbc1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e9b4656.js",
+    "static/js/runtime-main.3610b9ea.js",
     "static/css/2.3eeda32b.chunk.css",
-    "static/js/2.59978998.chunk.js",
+    "static/js/2.00204d39.chunk.js",
     "static/css/main.c2612547.chunk.css",
-    "static/js/main.be6ddcae.chunk.js"
+    "static/js/main.fb748e4e.chunk.js"
   ]
 }
